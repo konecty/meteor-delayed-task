@@ -1,5 +1,9 @@
 # DelayedTask
 
+```shell
+meteor add konecty:delayed-task
+```
+
 With this package you can execute tasks that can be called many times in a few period of time and only execute the the task after a certain time without calls or after a defined number of calls.
 
 # Use case
